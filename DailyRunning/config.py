@@ -1,0 +1,6 @@
+DB_HOST = 'localhost'
+DB_NAME = 'us'
+DB_USER = 'postgres'
+DB_PASS = 'buddyrich134'
+LINE_URL = 'https://notify-api.line.me/api/notify'
+LINE_TOKEN = '4YeT18qmmjfGAM40QTmlZqNicCf36sweYK5CAMdEmRS'
